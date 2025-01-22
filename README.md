@@ -14,7 +14,7 @@ Ako finálny projekt ku slúške som navhrol hru s témou Color as a gameplay fe
 Ako príklad vyberám hru Super Mario, ako základ všetkých plošinoviek. Je to hra kde sa postavička musí dostať, zo začiatku mapy na koniec mapy bez toho aby stratil priveľa životov. Pri vymýšľaní hry som sa vyslovene ale neinšpiroval žiadnou špecifickou hrou, ako prichádzali nápady tak prichádzali featur-y
 
 <p align="center">
-  <img src="tbd" alt="super_mario">
+  <img src="https://github.com/ivanos2234/OT_Hra_Jindra/blob/main/Super_mario.jpg" alt="super_mario">
   <br>
   <em>Super Mario - ukážka</em>
 </p>
@@ -55,7 +55,7 @@ V pravidelnom časovom intervale sa na mape na vopred predurčených lokáciach 
 Pomocou assetov z itch.io, ako aj hudby, bol vytvorený na pohľad príjemný grafický dizajn. Boli vybrané štyri druhy ovocia ako bolo už spomenuté a asset hlavného hrdinu ktorý má idle, running, jumping a falling animácie.
 
 <p align="center">
-  <img src="tbd" alt="Screen z hry">
+  <img src="https://github.com/ivanos2234/OT_Hra_Jindra/blob/main/Gameplay_picture.png" alt="Screen z hry">
   <br>
   <em>Ukážka screenu z rozohratej hry kde sú vidno všetky sprite-y</em>
 </p>
@@ -65,7 +65,7 @@ V hre boli použité assety z itch.io, konkrétne Pixel Adventure 1 (https://pix
 
 
 <p align="center">
-  <img src="tbd" alt="Prvý level">
+  <img src="https://github.com/ivanos2234/OT_Hra_Jindra/blob/main/level_1.png" alt="Prvý level">
   <br>
   <em>Ukážka prvého levelu</em>
 </p>
