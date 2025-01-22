@@ -6,7 +6,7 @@
 
 ---
 ## **1. Úvod**
-Ako finálny projekt ku slúške som navhrol hru s témou Color as a gameplay feature, tému spĺňa v tom že hra má charakter zbierania predmetov rôznej farby, kde farba je podstatná pritom kedy sa predmety môžu zbierať.
+Ako finálny projekt ku záverečnej skúške bola navrhnutá hra na tému témou Color as a gameplay feature, tému spĺňa v tom že hra má charakter zbierania predmetov rôznej farby, kde farba je podstatná pritom kedy sa predmety môžu a mali by sa zbierať.
 
 ### **1.1 Inšpirácia**
 <ins>**Všetky plošinovky**</ins>
@@ -20,7 +20,7 @@ Ako príklad vyberám hru Super Mario, ako základ všetkých plošinoviek. Je t
 </p>
 
 ### **1.2 Herný zážitok**
-Cieľom hry je zbierať po mape ovocie rovnakej farby akú vám práve hra (v ľavom hornom rohu) ukazuje, toto ovocie sa po každom úspešnom pozbieraní zmení, a navýši sa skóre, po nesprávnom sa skóre zníži, ktoré ale nie je vaśim finálnym hodnotením to je počet pozbieraných ovocí, ale hra má háčik každú určenú časovú jednotku sa vám odpočíta skóreo daný decrement, a keď nemáte dostatok skóre po odpočte hra končí, snažil som sa vutvoriť hru kde collectibl-y budú vlastne aj prekážky a v neskorších fázach (ako sa hra aj zrýchluje každ=ym odočtom) budú ovocia akurát nesprávnej farby pózovať prekážku keďže zníženie bodov za zobranie nesprávneho ovocia môže viesť k rýchlej prehre
+Cieľom hry je zbierať po mape ovocie rovnakej farby akú vám práve hra (v ľavom hornom rohu) ukazuje, toto ovocie sa po každom úspešnom pozbieraní zmení, a navýši sa skóre, po nesprávnom sa skóre zníži, ktoré ale nie je vašim finálnym hodnotením to je počet pozbieraných ovocí, ale hra má háčik každú určenú časovú jednotku sa vám odpočíta skóre o daný decrement, a keď nemáte dostatok skóre po odpočte (a vlastne hocikedy v hre) hra končí, snažil som sa vutvoriť hru kde collectibl-y budú vlastne aj prekážky a v neskorších fázach (ako sa hra aj zrýchluje každ=ym odočtom) budú ovocia akurát nesprávnej farby pózovať prekážku keďže zníženie bodov za zobranie nesprávneho ovocia môže viesť k rýchlej prehre, vďaka extenzívnemu testovaniu boli vaiceré hodnoty nastavené na dufám že príjemný hrací zážitok
 
 ### **1.3 Vývojový softvér**
 - **Pygame-CE**: zvolený programovací jazyk.
@@ -61,8 +61,7 @@ Pomocou assetov z itch.io, ako aj hudby, bol vytvorený na pohľad príjemný gr
 </p>
 
 ### **3.2 Dizajn**
-V hre boli použité assety z itch.io, konkrétne Pixel Adventure 1 (https://pixelfrog-assets.itch.io/pixel-adventure-1), všetky objekty v terrain, všetky políčka (tile) majú fyziku a vlastnosť zastaviť hráča, pridávanie rôznych nových levelov je vďaka dizajnu veľmi príjemné. 
-
+V hre boli použité assety z itch.io, konkrétne Pixel Adventure 1 (https://pixelfrog-assets.itch.io/pixel-adventure-1), všetky objekty v terrain, všetky políčka (tile) majú fyziku a vlastnosť zastaviť hráča. V hre sú zatiaľ len dva levely ale pridávanie nových levelov by v budúcnosti nemal priniesť problém.
 
 <p align="center">
   <img src="https://github.com/ivanos2234/OT_Hra_Jindra/blob/main/level_1.png" alt="Prvý level">
